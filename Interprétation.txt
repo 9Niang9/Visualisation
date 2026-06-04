@@ -1,0 +1,11 @@
+*G12----------->C1 E()=0 et la linéarité{
+		  
+				H0:La moyene des résidus est nulle  **** (on retient H0)
+				H1:"""""""""""""""""""""""""non nulle (on la retient quant le graph à des points
+									 disporpotionés[mal placé sur le nuage])
+				}
+*G11:Adéquation du model ajusté par rapport au model théorique(model s'ajuste bien par rapport au donnée)
+
+G21:Homoscédasticité (variance des résiduels est constant)
+G22:Observation abérante(point influent) *meilleur
+G31: C4   Ei~N(0,ecart-type2) TCL
